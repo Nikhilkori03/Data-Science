@@ -97,4 +97,5 @@ ___
             letter-spacing:0.1px;
             padding: 0.1em;">
 
-**<h2>♡ Thank you for taking the time ♡**
+**<h2> Thank you **
+# Thank-You
