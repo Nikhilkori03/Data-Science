@@ -2,7 +2,7 @@
 
 ## All Data Science Assignment Here
 
-### [Basic Statistics Level 1](https://github.com/Nikhilkori03/Assignment-Basic-Stats-Level1)
+### [Basic Statistics Level 1](https://github.com/Nikhilkori03/Basic-Statistics-Level-1/tree/main))
 
 ### [Basic Statistics Level 2 SET 1](https://github.com/Nikhilkori03/Assignment_2_Set_1)
 
